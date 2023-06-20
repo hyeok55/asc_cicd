@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  AWS_REGION: us-east-1 // aws 리전을 버지니아 북부(us-east-1)로 해주세요
+  AWS_REGION: us-east-1 
 
 jobs:
   deploy:
